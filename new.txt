@@ -1,2 +1,1 @@
-Hello!
-OSCP, I got you!
+OSCP is piece of a cake!
